@@ -1,0 +1,5 @@
+C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStats.CrossCutting\bin\Debug\BaseballStats.CrossCutting.dll
+C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStats.CrossCutting\bin\Debug\BaseballStats.CrossCutting.pdb
+C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStats.CrossCutting\obj\Debug\BaseballStats.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStats.CrossCutting\obj\Debug\BaseballStats.CrossCutting.dll
+C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStats.CrossCutting\obj\Debug\BaseballStats.CrossCutting.pdb
