@@ -5,3 +5,6 @@ C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmpo
 C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStats.Data\bin\Debug\EntityFramework.xml
 C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStats.Data\obj\Debug\BaseballStats.Data.dll
 C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStats.Data\obj\Debug\BaseballStats.Data.pdb
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStats.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStats.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStats.Data\obj\Debug\BaseballStats.Data.csprojResolveAssemblyReference.cache

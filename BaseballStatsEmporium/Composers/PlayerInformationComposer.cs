@@ -50,7 +50,9 @@ namespace BaseballStatsEmporium.Composers
                 Debut = p.Debut,
                 FinalGame = p.FinalGame,
                 College = p.College
-            }).Skip(skip).Take(take).ToList();
+            })
+            .OrderBy(p => p.NameLast)
+            .Skip(skip).Take(take).ToList();
         }
     }
 }

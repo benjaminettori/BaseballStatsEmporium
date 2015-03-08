@@ -35,3 +35,12 @@ C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmpo
 C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\obj\Debug\BaseballStatsEmporium.pdb
 C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\BaseballStats.CrossCutting.dll
 C:\Users\Benjamin Ettori\documents\visual studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\BaseballStats.CrossCutting.pdb
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\EntityFramework.SqlServer.dll
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\System.Net.Http.Formatting.dll
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\System.Web.Http.WebHost.dll
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\Antlr3.Runtime.pdb
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\EntityFramework.SqlServer.xml
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\System.Net.Http.Formatting.xml
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\System.Web.Http.WebHost.xml
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\System.Web.Optimization.xml
+C:\Users\Benjamin Ettori\Documents\Visual Studio 2013\Projects\BaseballStatsEmporium\BaseballStatsEmporium\bin\System.Web.Providers.xml
